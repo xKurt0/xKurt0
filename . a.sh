@@ -1,1 +1,1 @@
-xdg-open wa.me/447441461649?text=Programini%20kullaniyorum%20Kurt46
+xdg-open https://wa.me/447441461649?text=Programini%20kullaniyorum%20Kurt46
